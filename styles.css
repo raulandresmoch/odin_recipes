@@ -1,0 +1,23 @@
+.general{
+    background-color: black;
+    border-radius: 5px;
+}
+
+.titulo{
+    background-color: #F1A20E;
+    color: #A20EF1;
+    text-align: center;
+    font-size: 45px;
+    border-radius: 5px;
+    width: 65%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.menu{
+    height: auto;
+    width: 23%;
+    margin-top: 25px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
